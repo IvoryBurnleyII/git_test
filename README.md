@@ -1,0 +1,1 @@
+This is Ivory's first Git project!
